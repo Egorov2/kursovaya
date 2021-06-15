@@ -200,7 +200,7 @@ server {
 [egorov@localhost project]$ sudo systemctl start nginx  
 [egorov@localhost project]$ sudo systemctl enable nginx  
 
-  
+----------
 Вывод:
   
 В ходе выполнения курсовой работы было создано приложение Flask в виртуальной средe, 
