@@ -200,7 +200,9 @@ server {
 [egorov@localhost project]$ sudo systemctl start nginx  
 [egorov@localhost project]$ sudo systemctl enable nginx  
 
+  
 Вывод:
+  
 В ходе выполнения курсовой работы было создано приложение Flask в виртуальной средe, 
 позволяющее загружать файлы формата ".tif" и получать цветное изображение NDVI. Была создана и настроена точка входа WSGI,
 c помощью котрой любой сервер приложений, поддерживающий WSGI, мог взаимодействовать с приложением Flask. 
